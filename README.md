@@ -22,8 +22,7 @@ This project uses Machine Learning and Scikit-Learn to classify emails as Phishi
 The dataset used for this project can be downloaded from Kaggle:
 https://www.kaggle.com/datasets/subhajournal/phishingemails
 
--The dataset is not included in this repository because of GitHub file size limitations.
--Download it separately and place it in the project folder before running the code.
+-The dataset is not included in this repository because of GitHub file size limitations. Download it separately and place it in the project folder before running the code.
 
 *Results*
 
